@@ -4,6 +4,7 @@
 <canvas id="canvas"></canvas>
 <script src="https://cdn.jsdelivr.net/gh/baidu8/js/time.js"></script>
 
+<span id="nowTime"></span>
 <script src="https://cdn.jsdelivr.net/gh/baidu8/js/shijian.js"></script>
 
 https://cdn.jsdelivr.net/gh/baidu8/js/dp666.js
